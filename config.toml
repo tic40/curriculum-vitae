@@ -1,0 +1,41 @@
+baseURL = "https://tic40.github.io"
+defaultContentLanguage = "en"
+enableEmoji = true
+languageCode = "en-us"
+paginate = 4
+pygmentsCodeFences = true
+pygmentsStyle = "native"
+pygmentsUseClasses =  true
+theme = "simplicity"
+title = "tic40.github.io"
+[author]
+  picPath = "https://avatars2.githubusercontent.com/u/739402?s=460&v=4"
+  homepageText = "tic40.github.io"
+  name = "tic40"
+[params]
+  description = "tic40.github.io"
+  disqusShortname = "tic40"
+  googleAnalytics = ""
+  licence = ""
+  adsenseDataAdClient = ""
+  adsenseDataAdSlot = ""
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
+[pygmentsOptions]
+  linenos = false
+[outputs]
+  home = ["HTML"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
+[[menu.pages]]
+  name = "Profile"
+  weight = -100
+  identifier = "profile"
+  url = "/profile/"
+#[[menu.pages]]
+#  name = "Photos"
+#  weight = -90
+#  identifier = "photos"
+#  url = "/photos/"
