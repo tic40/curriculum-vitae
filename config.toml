@@ -15,7 +15,7 @@ title = "tic40.github.io"
 [params]
   description = "tic40.github.io"
   disqusShortname = "tic40"
-  googleAnalytics = ""
+  googleAnalytics = "UA-57261073-4"
   licence = ""
   adsenseDataAdClient = ""
   adsenseDataAdSlot = ""
