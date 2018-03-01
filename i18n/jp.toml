@@ -2,7 +2,7 @@
 other = "Posts about:"
 
 [postsList]
-other = "ブログ"
+other = "ポスト"
 
 [homePage]
 other = "tic40.github.io"

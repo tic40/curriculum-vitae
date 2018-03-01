@@ -2,19 +2,34 @@
   <div class="homepage">
     <img class="avatar" src="{{ .Site.Author.picpath }}" style="width: 100px;">
     {{ .Content }}
+
     <hr>
+    <h3>Accounts</h3>
     <ul>
       <li>
-        <a href="/posts/">{{ i18n "postsList" . }}</a></li>
-      <li>
-        <a href="/categories/">{{ i18n "categories" . }}</a>
+        Github: <a href="{{ .Site.Author.github }}" target="_blank">
+          {{ .Site.Author.github }}
+        </a>
       </li>
       <li>
-        <a href="/tags/">{{ i18n "tags" . }}</a>
+        facebook: <a href="{{ .Site.Author.facebook }}" target="_blank">
+          {{ .Site.Author.facebook }}
+        </a>
+      </li>
+      <li>
+        twitter: <a href="{{ .Site.Author.twitter }}" target="_blank">
+          {{ .Site.Author.twitter }}
+        </a>
+      </li>
+      <li>
+        hatena blog: <a href="{{ .Site.Author.blog }}" target="_blank">
+          {{ .Site.Author.blog }}
+        </a>
       </li>
     </ul>
+
     {{ if .Site.Menus.pages }}
-      <hr>
+      <h3>Pages</h3>
       <ul>
         {{ $currentPage := . }}
         {{ range .Site.Menus.pages }}
@@ -26,5 +41,18 @@
         {{ end }}
       </ul>
     {{ end }}
+
+    <h3>Posts</h3>
+    <ul>
+      <li>
+        <a href="/posts/">{{ i18n "postsList" . }}</a></li>
+      <li>
+        <a href="/categories/">{{ i18n "categories" . }}</a>
+      </li>
+      <li>
+        <a href="/tags/">{{ i18n "tags" . }}</a>
+      </li>
+    </ul>
+
   </div>
 {{ end }}
