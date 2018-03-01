@@ -1,7 +1,7 @@
-[submodule "public"]
-  path = public
-  url = git@github.com:tic40/tic40.github.io.git
-  branch = master
 [submodule "themes/simplicity"]
-  path = themes/simplicity
-  url = https://github.com/eshlox/simplicity.git
+	path = themes/simplicity
+	url = https://github.com/eshlox/simplicity.git
+[submodule "public"]
+	path = public
+	url = git@github.com:tic40/tic40.github.io.git
+	branch = master
