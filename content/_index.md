@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: tic40.github.io
 language: en
 slug: /
 ---
