@@ -8,6 +8,7 @@ pygmentsStyle = "native"
 pygmentsUseClasses =  true
 theme = "simplicity"
 title = "tic40.github.io"
+googleAnalytics = "UA-57261073-4"
 [author]
   picPath = "https://avatars2.githubusercontent.com/u/739402?s=460&v=4"
   homepageText = "tic40.github.io"
@@ -19,7 +20,6 @@ title = "tic40.github.io"
 [params]
   description = "tic40.github.io"
   disqusShortname = "tic40"
-  googleAnalytics = "UA-57261073-4"
   licence = ""
   adsenseDataAdClient = ""
   adsenseDataAdSlot = ""
@@ -38,8 +38,3 @@ title = "tic40.github.io"
   weight = -100
   identifier = "profile"
   url = "/profile/"
-#[[menu.pages]]
-#  name = "Photos"
-#  weight = -90
-#  identifier = "photos"
-#  url = "/photos/"
