@@ -20,9 +20,9 @@ slug: profile
 ## スキル
 
 - 言語
-  - PHP: Laravel(v4), cakePHP(v2), Yii(v1, v2)
-  - Ruby: Rails(v4, v5)
-  - JavaScript: Vue.js(v2), React, AngularJS(v1), typescript(v2)
+  - PHP: Laravel, cakePHP, Yii
+  - Ruby: Rails
+  - JavaScript: Vue.js, React, AngularJS, typescript
   - Japanese
   - English
 
@@ -64,7 +64,7 @@ Webアプリケーションエンジニアとして入社。
 フロントエンドを担当。
 
 - 講師検索システムの改良
-- 英会話スピーキングテストアプリケーション開発(angular v1 + nodejs)
+- 英会話スピーキングテストアプリケーション開発
 
 #### 2016 / 01 - 2016 / 05
 サーバサイドチームAPI開発を担当。PHP7 + yii FW
