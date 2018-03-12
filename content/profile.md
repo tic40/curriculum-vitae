@@ -20,9 +20,9 @@ slug: profile
 ## スキル
 
 - 言語
-  - PHP: Laravel, cakePHP, Yii
-  - Ruby: Rails
-  - JavaScript: Vue.js, React, AngularJS, typescript
+  - PHP
+  - Ruby
+  - JavaScript
   - Japanese
   - English
 
