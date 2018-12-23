@@ -51,7 +51,7 @@ Always thinking what I should do to enhance the team output.
 I stated my career as a software engineer here.
 
 I learned from the top to the bottom about web in this company.
-Web design, frontend(Javascript/Jquery), backend(PHP), database design, manage web server(apache), how to negotiate clients...
+Web design, frontend(JavaScript/jQuery), backend(PHP), database design, manage web server(apache), how to negotiate clients...
 
 ---
 
