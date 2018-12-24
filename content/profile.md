@@ -13,32 +13,52 @@ slug: profile
 - Name: Inoue Taishi (井上太志)
 - Birth: 1986/08/23
 - Address: Tokyo
+- Language: Japanese/English
 
 Software engineer in Tokyo.
 
-I learned computer science at university.
-After that, I started my career in banking as bank clerk(it's not software engineer. I was interested in finance at that time)
+### Career Summary
+I learned computer science at electronics engineering and computer science department, Fukuoka university.
 
-I quitted the bank company in 1 year to help my father's business(cause my father has a disease).
-I managed the business instead of my father for 3 years.
+After graduated, I started my career in banking as bank clerk.
+My first career is not software engineer.
+There are some reasons for me to prefer the bank to a web company.
 
-However this business was closed unfortunately.
-Then I restarted my career as a software engineer in 2012.
+Therefore, I had been working other than software engineer until 2012.
+I started my career as a software engineer in 2013.
 
 Now I have experienced over 6 years of experience as a software engineer.
-1 small company(5 employees), 1 listed company(more than 100 employees) and a startup company.
+I worked for a small web company, Rarejob, inc and now working for piece of cake, inc.
 
-I love to design software, solve problems and give good experience through the web to users.
+### What I can do
+I love to design software architecture, algorithm and learning something new.
+I did both serverside and frontend.
 
-The most important thing to build great software for me is teamwork.
-I interested in team management as well.
-Always thinking what I should do to enhance the team output.
+- Server-side
+  - Build server-side app
+  - DB design
+  - API design
+- Front-end
+  - Build SPA/SSR app
+  - Performance tuning
+
+Also I'm interested in business-side issues as below.
+
+- How to maximize development team output(team management).
+- How to growth web app.
+
+### Output
+
+Please visit the following my blog and GitHub.
+
+- https://github.com/tic40
+- http://tic40.hatenablog.com/
 
 ---
 
 ## Work experience
 
-### A bank company 2009 / 04 - 2010 / 02
+### Shikoku Bank 株式会社四国銀行 2009 / 04 - 2010 / 02
 
 ---
 
@@ -51,11 +71,11 @@ Always thinking what I should do to enhance the team output.
 I stated my career as a software engineer here.
 
 I learned from the top to the bottom about web in this company.
-Web design, frontend(JavaScript/jQuery), backend(PHP), database design, manage web server(apache), how to negotiate clients...
+Web design, frontend(JavaScript/jQuery), backend(PHP), database design, manage web server(apache)...
 
 ---
 
-### 株式会社レアジョブ Rarejob, inc 2015 / 03 - 2018 / 03
+### Rarejob, inc 株式会社レアジョブ 2015 / 03 - 2018 / 03
 
 https://www.rarejob.co.jp/
 
@@ -67,33 +87,24 @@ Frontend
 #### 2016 / 01 - 2016 / 05
 Serverside
 
-- Design and Develop REST API(PHP7/Yii)
+- Build REST API(PHP7/Yii)
 
 #### 2016 / 06 - 2016 / 12
-
-Long-term business trip to Ho Chi Minh City, Vietnam.
-
-- I become a team leader in Vietnam Offshore development team.
-- Develop an iOS mobile app
-- REST API
+6 months business trip to Ho Chi Minh City, Vietnam.
+I became a team leader in Vietnam Offshore development team.
 
 #### 2017 / 01 - 2017 / 09
-Serverside.
+Serverside
 
-- Cross-border development between Japan and Philippines.
-- Replace project
-- New API design
+- Cross-border project between Japan and Philippines.
 
 #### 2017 / 10 - 2018 / 03
-Frontend.
+Frontend
 
-- Main developer at a project that build a web video chat application using WebRTC(Vue.js/typescript).
+I was a lead developer at a project that build a web video chat application using WebRTC.
 
-### 株式会社ピースオブケイク  piece of cake, inc 2018 / 06 - now
+### piece of cake, inc 株式会社ピースオブケイク 2018 / 06 - now
 
 https://www.pieceofcake.co.jp/
 
-- Frontend replace project from Angular.js to Nuxt.js
-- server side using Ruby on Rails.
-
-#### その他職歴
+I'm developing both frontend and serverside.
