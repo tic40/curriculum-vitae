@@ -21,8 +21,7 @@ Software engineer in Tokyo.
 I learned computer science at electronics engineering and computer science department, Fukuoka university.
 
 After graduated, I started my career in banking as bank clerk.
-My first career is not software engineer.
-There are some reasons for me to prefer the bank to a web company.
+My first career is not software engineer. There's a bit sensitive reason for me to choose the bank at that time.
 
 Therefore, I had been working other than software engineer until 2012.
 I started my career as a software engineer in 2013.
@@ -32,15 +31,8 @@ I worked for a small web company, Rarejob, inc and now working for piece of cake
 
 ### What I can do
 I love to design software architecture, algorithm and learning something new.
-I did both serverside and frontend.
 
-- Server-side
-  - Build server-side app
-  - DB design
-  - API design
-- Front-end
-  - Build SPA/SSR app
-  - Performance tuning
+I can do both serverside and frontend.
 
 Also I'm interested in business-side issues as below.
 
@@ -107,4 +99,4 @@ I was a lead developer at a project that build a web video chat application usin
 
 https://www.pieceofcake.co.jp/
 
-I'm developing both frontend and serverside.
+I'm in charge of both frontend and serverside.
