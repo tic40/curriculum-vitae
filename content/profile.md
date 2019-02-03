@@ -14,89 +14,64 @@ slug: profile
 - Birth: 1986/08/23
 - Address: Tokyo
 - Language: Japanese/English
+- GitHub: https://github.com/tic40
+- Twitter: @tic40
+- Blog: http://tic40.hatenablog.com/
 
 Software engineer in Tokyo.
 
 ### Career Summary
-I learned computer science at electronics engineering and computer science department, Fukuoka university.
 
-After graduated, I started my career in banking as bank clerk.
-My first career is not software engineer. There's a bit sensitive reason for me to choose the bank at that time.
+福岡大学 電子情報工学科でコンピュータサイエンスを学ぶ。
 
-Therefore, I had been working other than software engineer until 2012.
-I started my career as a software engineer in 2013.
-
-Now I have experienced over 6 years of experience as a software engineer.
-I worked for a small web company, Rarejob, inc and now working for piece of cake, inc.
-
-### What I can do
-I love to design software architecture, algorithm and learning something new.
-
-I can do both serverside and frontend.
-
-Also I'm interested in business-side issues as below.
-
-- How to maximize development team output(team management).
-- How to growth web app.
-
-### Output
-
-Please visit the following my blog and GitHub.
-
-- https://github.com/tic40
-- http://tic40.hatenablog.com/
-
----
+大学卒業後、地方銀行に総合職として入社する。
+家業を手伝うため、約1年後に退職。
+家業の工場経営をしながらも、本来やりたかったエンジニアリングの仕事を諦めきれず、2013年からWeb業界でエンジニアとしてのキャリアをスタートする。
 
 ## Work experience
 
-### Shikoku Bank 株式会社四国銀行 2009 / 04 - 2010 / 02
+### 地方銀行 2009 / 04 - 2010 / 02
+
+総合職(非エンジニア)
+銀行という巨大な組織で、金融の仕組み、外回り営業、組織での振る舞い方など、生きていく上で大切な多くのことを学ぶことができた。
 
 ---
 
-### Self employed 2010 / 03 - 2013 / 03
+### 自営業 2010 / 03 - 2013 / 03
+
+実家の工場経営を父に代わって行う。
+15名程度の会社で、仕入れ、販売営業、経理など工場経営に必要な全てのことを行った。
 
 ---
 
-### A small web company 2013 / 06 - 2014 / 10
+### 零細Web受託開発会社 2013 / 06 - 2014 / 10
 
-I stated my career as a software engineer here.
+知人の紹介で10名以下の小規模なWeb受託開発会社に入社。
 
-I learned from the top to the bottom about web in this company.
-Web design, frontend(JavaScript/jQuery), backend(PHP), database design, manage web server(apache)...
+LAMP環境でのWebシステム開発がメイン。
+クライアントとの打ち合わせから、サーバー構築、DB設計、PHPでのサーバーサイド開発、運用と広く浅く、Web開発実務の大部分をここで習得した。
 
 ---
 
-### Rarejob, inc 株式会社レアジョブ 2015 / 03 - 2018 / 03
+### 株式会社レアジョブ 2015 / 03 - 2018 / 03
 
 https://www.rarejob.co.jp/
 
-####  2015 / 03 - 2016 / 12
-Frontend
+PHPでの自社サービス開発がメイン。
+サーバーサイド/フロントエンドどちらの同じ程度の割合で担当。
 
-- English speaking test application (SPA/angular.js)
+海外にも拠点があるため、業務上のドキュメントやチャットは英語がベース。
+文化の違う海外エンジニアとの英語でのコミュニケーションや、チームビルディング、品質どう保つか、といったエンジニア組織での課題にも積極的に取り組んだ。
 
-#### 2016 / 01 - 2016 / 05
-Serverside
+- REST API設計、開発
+- DB設計
+- SPA設計、開発(Angular.js v1.x / Vue.js v2.x)
+- WebRTCを使用したオンラインビデオチャットシステムの開発
+- 海外エンジニアとのクロスボーダー開発(ベトナム、フィリピン)
+- 開発リーダー経験
 
-- Build REST API(PHP7/Yii)
-
-#### 2016 / 06 - 2016 / 12
-6 months business trip to Ho Chi Minh City, Vietnam.
-I became a team leader in Vietnam Offshore development team.
-
-#### 2017 / 01 - 2017 / 09
-Serverside
-
-- Cross-border project between Japan and Philippines.
-
-#### 2017 / 10 - 2018 / 03
-Frontend
-
-I was a lead developer at a project that build a web video chat application using WebRTC.
-
-### piece of cake, inc 株式会社ピースオブケイク 2018 / 06 - now
+### 株式会社ピースオブケイク 2018 / 06 - now
 
 https://www.pieceofcake.co.jp/
 
-I'm in charge of both frontend and serverside.
+Railsでのサーバーサイド開発、Nuxt.jsでのフロントエンド開発を行っている。
